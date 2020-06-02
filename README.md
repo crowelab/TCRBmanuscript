@@ -8,6 +8,10 @@
 
 ### Box and whisker plots
 
+### Heatmaps
+
+### Subsampling
+
 ## Datasets
 
 ### HIP 1
