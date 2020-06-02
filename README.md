@@ -10,19 +10,9 @@
 
 ## Datasets
 
-### Donor 1
+### HIP 1
 
-### Donor 2
-
-CD4+ Memory
-
-CD4+ Naive
-
-CD8+ Memory
-
-CD8+ Naive
-
-### Donor 3
+### HIP 2
 
 CD4+ Memory
 
@@ -32,7 +22,7 @@ CD8+ Memory
 
 CD8+ Naive
 
-### Donor 4
+### HIP 3
 
 CD4+ Memory
 
@@ -42,7 +32,17 @@ CD8+ Memory
 
 CD8+ Naive
 
-### Donor 5
+### HIP 4
+
+CD4+ Memory
+
+CD4+ Naive
+
+CD8+ Memory
+
+CD8+ Naive
+
+### HIP 5
 
 CD4+ Memory
 
