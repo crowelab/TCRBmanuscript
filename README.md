@@ -1,20 +1,18 @@
 # TCRBmanuscript
 
-# Datasets
+## Scripts
 
-## Donor 1
+### Morisita-Horn Index
 
-## Donor 2
+### Clonotype overlaps
 
-CD4+ Memory
+### Box and whisker plots
 
-CD4+ Naive
+## Datasets
 
-CD8+ Memory
+### Donor 1
 
-CD8+ Naive
-
-## Donor 3
+### Donor 2
 
 CD4+ Memory
 
@@ -24,7 +22,7 @@ CD8+ Memory
 
 CD8+ Naive
 
-## Donor 4
+### Donor 3
 
 CD4+ Memory
 
@@ -34,7 +32,17 @@ CD8+ Memory
 
 CD8+ Naive
 
-## Donor 5
+### Donor 4
+
+CD4+ Memory
+
+CD4+ Naive
+
+CD8+ Memory
+
+CD8+ Naive
+
+### Donor 5
 
 CD4+ Memory
 
