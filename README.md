@@ -10,9 +10,9 @@ We provide the Python scripts used to analyze the AIRR sequencing data from the 
 
 #### AbHelix (mRNA)
 
-TCRα
+[TCRα](https://clonomatch.accre.vanderbilt.edu/tcrbmanuscript/HIP1_abhelix_TCRA.fasta.gz)
 
-TCRβ
+[TCRβ](https://clonomatch.accre.vanderbilt.edu/tcrbmanuscript/HIP1_abhelix_TCRB.fasta.gz)
 
 #### Adaptive Biotechnologies (gDNA)
 [Bulk Sequencing](https://clonomatch.accre.vanderbilt.edu/tcrbmanuscript/HIP1_bulk_TCR.fasta.gz)
@@ -23,9 +23,9 @@ TCRβ
 
 #### AbHelix (mRNA)
 
-TCRα
+[TCRα](https://clonomatch.accre.vanderbilt.edu/tcrbmanuscript/HIP2_abhelix_TCRA.fasta.gz)
 
-TCRβ
+[TCRβ](https://clonomatch.accre.vanderbilt.edu/tcrbmanuscript/HIP2_abhelix_TCRB.fasta.gz)
 
 #### Adaptive Biotechnologies (gDNA)
 
@@ -43,9 +43,9 @@ TCRβ
 
 #### AbHelix (mRNA)
 
-TCRα
+[TCRα](https://clonomatch.accre.vanderbilt.edu/tcrbmanuscript/HIP3_abhelix_TCRA.fasta.gz)
 
-TCRβ
+[TCRβ](https://clonomatch.accre.vanderbilt.edu/tcrbmanuscript/HIP3_abhelix_TCRB.fasta.gz)
 
 #### Adaptive Biotechnologies (gDNA)
 
