@@ -15,6 +15,8 @@ TCRB
 #### Adaptive Biotechnologies (gDNA)
 [Bulk Sequencing](https://clonomatch.accre.vanderbilt.edu/tcrbmanuscript/HIP1_bulk_TCR.fasta.gz)
 
+***
+
 ### HIP 2
 
 #### AbHelix (mRNA)
@@ -32,6 +34,8 @@ TCRB
 [CD8+ Memory](https://clonomatch.accre.vanderbilt.edu/tcrbmanuscript/HIP2_CD8+_memory.fasta.gz)
 
 [CD8+ Naive](https://clonomatch.accre.vanderbilt.edu/tcrbmanuscript/HIP2_CD8+_naive.fasta.gz)
+
+***
 
 ### HIP 3
 
@@ -51,6 +55,8 @@ TCRB
 
 [CD8+ Naive](https://clonomatch.accre.vanderbilt.edu/tcrbmanuscript/HIP3_CD8+_naive.fasta.gz)
 
+***
+
 ### HIP 4
 
 #### Adaptive Biotechnologies (gDNA)
@@ -63,6 +69,8 @@ TCRB
 
 [CD8+ Naive](https://clonomatch.accre.vanderbilt.edu/tcrbmanuscript/HIP4_CD8+_naive.fasta.gz)
 
+***
+
 ### HIP 5
 
 #### Adaptive Biotechnologies (gDNA)
@@ -74,6 +82,8 @@ TCRB
 [CD8+ Memory](https://clonomatch.accre.vanderbilt.edu/tcrbmanuscript/HIP5_CD8+_memory.fasta.gz)
 
 [CD8+ Naive](https://clonomatch.accre.vanderbilt.edu/tcrbmanuscript/HIP5_CD8+_naive.fasta.gz)
+
+***
 
 ### Synthetic repertoires
 
