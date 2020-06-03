@@ -91,8 +91,8 @@ TCRβ
 
 We used the program [IGoR](https://github.com/qmarcou/IGoR) to create synthetic repertoires for TCRβ chains. 
 
-[simHIP1](https://clonomatch.accre.vanderbilt.edu/tcrbmanuscript/tcr_beta_synrep1_split.tar.gz)
+[simHIP1](https://clonomatch.accre.vanderbilt.edu/tcrbmanuscript/tcr_beta_synrep1_split.tar.gz) (8.4GB)
 
-[simHIP2](https://clonomatch.accre.vanderbilt.edu/tcrbmanuscript/tcr_beta_synrep2_split.tar.gz)
+[simHIP2](https://clonomatch.accre.vanderbilt.edu/tcrbmanuscript/tcr_beta_synrep2_split.tar.gz) (4.6GB)
 
-[simHIP3](https://clonomatch.accre.vanderbilt.edu/tcrbmanuscript/tcr_beta_synrep3_split.tar.gz)
+[simHIP3](https://clonomatch.accre.vanderbilt.edu/tcrbmanuscript/tcr_beta_synrep3_split.tar.gz) (8.4GB)
