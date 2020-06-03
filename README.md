@@ -19,7 +19,9 @@ We provide the Python scripts used to analyze the AIRR sequencing data from the 
 ### HIP 1
 
 #### AbHelix (mRNA)
+
 TCRA
+
 TCRB
 
 #### Adaptive Biotechnologies (gDNA)
@@ -28,7 +30,9 @@ TCRB
 ### HIP 2
 
 #### AbHelix (mRNA)
+
 TCRA
+
 TCRB
 
 #### Adaptive Biotechnologies (gDNA)
@@ -44,7 +48,9 @@ TCRB
 ### HIP 3
 
 #### AbHelix (mRNA)
+
 TCRA
+
 TCRB
 
 #### Adaptive Biotechnologies (gDNA)
