@@ -19,12 +19,18 @@ We provide the Python scripts used to analyze the AIRR sequencing data from the 
 ### HIP 1
 
 #### AbHelix (mRNA)
+TCRA
+TCRB
+
 #### Adaptive Biotechnologies (gDNA)
 [Bulk Sequencing](https://clonomatch.accre.vanderbilt.edu/tcrbmanuscript/HIP1_bulk_TCR.fasta.gz)
 
 ### HIP 2
 
 #### AbHelix (mRNA)
+TCRA
+TCRB
+
 #### Adaptive Biotechnologies (gDNA)
 
 [CD4+ Memory](https://clonomatch.accre.vanderbilt.edu/tcrbmanuscript/HIP2_CD4+_memory.fasta.gz)
@@ -38,6 +44,9 @@ We provide the Python scripts used to analyze the AIRR sequencing data from the 
 ### HIP 3
 
 #### AbHelix (mRNA)
+TCRA
+TCRB
+
 #### Adaptive Biotechnologies (gDNA)
 
 [CD4+ Memory](https://clonomatch.accre.vanderbilt.edu/tcrbmanuscript/HIP3_CD4+_memory.fasta.gz)
