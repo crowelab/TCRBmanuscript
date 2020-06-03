@@ -1,6 +1,8 @@
-# TCRBmanuscript
+# *High frequency of shared clonotypes in human T cell receptor repertoires*
 
 We provide the Python scripts used to analyze the AIRR sequencing data from the study *High frequency of shared clonotypes in human T cell receptor repertoires*. Each directory contains a README file that describes the file format for the data. We also provide example data that can be used with each script. The example data is meant for illustration purposes only.
+
+<br><br>
 
 ## Datasets
 
@@ -8,9 +10,9 @@ We provide the Python scripts used to analyze the AIRR sequencing data from the 
 
 #### AbHelix (mRNA)
 
-TCRA
+TCRα
 
-TCRB
+TCRβ
 
 #### Adaptive Biotechnologies (gDNA)
 [Bulk Sequencing](https://clonomatch.accre.vanderbilt.edu/tcrbmanuscript/HIP1_bulk_TCR.fasta.gz)
@@ -21,9 +23,9 @@ TCRB
 
 #### AbHelix (mRNA)
 
-TCRA
+TCRα
 
-TCRB
+TCRβ
 
 #### Adaptive Biotechnologies (gDNA)
 
@@ -41,9 +43,9 @@ TCRB
 
 #### AbHelix (mRNA)
 
-TCRA
+TCRα
 
-TCRB
+TCRβ
 
 #### Adaptive Biotechnologies (gDNA)
 
