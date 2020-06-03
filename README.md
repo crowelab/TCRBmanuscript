@@ -40,23 +40,23 @@
 
 ### HIP 4
 
-[CD4+ Memory](https://clonomatch.accre.vanderbilt.edu/tcrbmanuscript/)
+[CD4+ Memory](https://clonomatch.accre.vanderbilt.edu/tcrbmanuscript/HIP4_CD4+_memory.fasta.gz)
 
-[CD4+ Naive](https://clonomatch.accre.vanderbilt.edu/tcrbmanuscript/)
+[CD4+ Naive](https://clonomatch.accre.vanderbilt.edu/tcrbmanuscript/HIP4_CD4+_naive.fasta.gz)
 
-[CD8+ Memory](https://clonomatch.accre.vanderbilt.edu/tcrbmanuscript/)
+[CD8+ Memory](https://clonomatch.accre.vanderbilt.edu/tcrbmanuscript/HIP4_CD8+_memory.fasta.gz)
 
-[CD8+ Naive](https://clonomatch.accre.vanderbilt.edu/tcrbmanuscript/)
+[CD8+ Naive](https://clonomatch.accre.vanderbilt.edu/tcrbmanuscript/HIP4_CD8+_naive.fasta.gz)
 
 ### HIP 5
 
-[CD4+ Memory](https://clonomatch.accre.vanderbilt.edu/tcrbmanuscript/)
+[CD4+ Memory](https://clonomatch.accre.vanderbilt.edu/tcrbmanuscript/HIP5_CD4+_memory.fasta.gz)
 
-[CD4+ Naive](https://clonomatch.accre.vanderbilt.edu/tcrbmanuscript/)
+[CD4+ Naive](https://clonomatch.accre.vanderbilt.edu/tcrbmanuscript/HIP5_CD4+_naive.fasta.gz)
 
-[CD8+ Memory](https://clonomatch.accre.vanderbilt.edu/tcrbmanuscript/)
+[CD8+ Memory](https://clonomatch.accre.vanderbilt.edu/tcrbmanuscript/HIP5_CD8+_memory.fasta.gz)
 
-[CD8+ Naive](https://clonomatch.accre.vanderbilt.edu/tcrbmanuscript/)
+[CD8+ Naive](https://clonomatch.accre.vanderbilt.edu/tcrbmanuscript/HIP5_CD8+_naive.fasta.gz)
 
 ### Synthetic TCRB Sequences
 
