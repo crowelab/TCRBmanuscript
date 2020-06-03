@@ -2,18 +2,6 @@
 
 We provide the Python scripts used to analyze the AIRR sequencing data from the study *High frequency of shared clonotypes in human T cell receptor repertoires*. Each directory contains a README file that describes the file format for the data. We also provide example data that can be used with each script. The example data is meant for illustration purposes only.
 
-## Scripts
-
-### Morisita-Horn Index
-
-### Clonotype overlaps
-
-### Box and whisker plots
-
-### Heatmaps
-
-### Subsampling
-
 ## Datasets
 
 ### HIP 1
