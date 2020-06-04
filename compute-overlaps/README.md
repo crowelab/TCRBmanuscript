@@ -2,7 +2,7 @@
 A python2 script for determining shared clonotypes between datasets
 
 ## Clonotype file definition:
-Space separated: V call J call CDR3(AA) count
+Files as shown in TCR-HIP examples directory. Contains V and J germline gene family, CDR3, and number of associated somatic variants.
 
 TRBV7-8 TRBJ2-7 ASSFLRYSPYEQY 1695020
 
