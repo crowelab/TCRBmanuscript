@@ -5,6 +5,7 @@ A python2 script for determining shared clonotypes between datasets
 Space separated: V call, J call, CDR3(AA), count
 
 `TRBV7-8 TRBJ2-7 ASSFLRYSPYEQY 1695020
+
 TRBV7-9 TRBJ2-1 ASSLVPEAYNEQF 834466`
 
 ## Command line options:
