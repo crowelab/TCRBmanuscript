@@ -2,9 +2,9 @@
 A python2 program for generating box and whisker plots of CDR3 length distributions from a list of CDR3 lengths or what we call a "clonotype file."
 
 ## Input type 1 ("clonotype file"):
-Spa ce separated: V call, J call, CDR3(AA), count
+Examples files are given in `a.dat.gz`, `b.dat.gz`, etc. Each line in the file contains the V and J germline gene family, CDR3, and number of associated somatic variants.
+
 TRBV7-8 TRBJ2-7 ASSFLRYSPYEQY 1695020
-TRBV7-9 TRBJ2-1 ASSLVPEAYNEQF 834466
 
 ## Input type 2 ("data file"):
 CDR3 length (one entry per clonotype)
