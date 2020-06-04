@@ -89,10 +89,4 @@ We provide the Python scripts used to analyze the AIRR sequencing data from the 
 
 ### Synthetic repertoires
 
-We used the program [IGoR](https://github.com/qmarcou/IGoR) to create synthetic repertoires for TCRβ chains. 
-
-[simHIP1](https://clonomatch.accre.vanderbilt.edu/tcrbmanuscript/tcr_beta_synrep1_split.tar.gz) (8.4GB)
-
-[simHIP2](https://clonomatch.accre.vanderbilt.edu/tcrbmanuscript/tcr_beta_synrep2_split.tar.gz) (4.6GB)
-
-[simHIP3](https://clonomatch.accre.vanderbilt.edu/tcrbmanuscript/tcr_beta_synrep3_split.tar.gz) (8.4GB)
+We used the program [IGoR](https://github.com/qmarcou/IGoR) to create synthetic repertoires for TCRβ chains. The synthetic repertoires can be [downloaded here](https://doi.org/10.6084/m9.figshare.c.5002037.v1). Note that the *simHIP1* data corresponds to all files with the prefix *tcr_beta_synrep_set1*, *simHIP2* data corresponds to all files with the prefix *tcr_beta_synrep_set2* and *simHIP3* data corresponds to all the files with prefix *tcr_beta_synrep_set3*.
