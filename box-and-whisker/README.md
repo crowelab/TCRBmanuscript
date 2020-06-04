@@ -8,10 +8,10 @@ TRBV7-8 TRBJ2-7 ASSFLRYSPYEQY 1695020
 
 ## Input type 2 ("data file"):
 CDR3 length (one entry per clonotype)
-11
-13
-11
-14
+11<br>
+13<br>
+11<br>
+14<br>
 8
 
 ## Command line options:
