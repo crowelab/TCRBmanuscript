@@ -4,7 +4,7 @@ A python2 program for plotting overlap between samples.
 ## Command line options
 
 ### --clonotype-files1
-Clonotype file to be compared
+Clonotype file to be compared<br>
 example: AB-HELIX-HIP1-TCRB.dat.gz
 
 ### --clonotype-files2
